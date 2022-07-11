@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lotteryMachine</string>
+    <string name="app_title">로또번호 추첨기</string>
+    <string name="app_script">가보자고!!!!</string>
+    <string name="app_start_button">돌려~</string>
+    <string name="app_add_button">번호추가</string>
+    <string name="app_clear_button">초기화</string>
+    <string name="ball_init_Number">1</string>
+</resources>
